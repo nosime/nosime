@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 
+    Hà lố ô ! Xin chào tôi là
+    <a href="https://www.facebook.com/khoa.cao.040404">Võ Quốc Sơn 
      <img
            width="10%" 
            align="center" 

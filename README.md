@@ -2,7 +2,15 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro ![image](https://user-images.githubusercontent.com/114709049/193332737-1a171594-e36a-4650-9ced-628d395daf0d.png)</a>
+    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 
+     <img
+           width="10%" 
+           align="center" 
+           valign="middle" 
+           src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/owl_1f989.png" 
+           target="_blank" 
+      />
+    </a>
   </h1>
 </div>
 

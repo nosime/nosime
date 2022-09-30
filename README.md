@@ -1,27 +1,31 @@
-## ⚜Hi There !
-> [![View count](https://visitcount.itsvg.in/api?id=nosime&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=nosime)
- <h1 align="center">
+### ⚜Hi There !
+
+ <h1 align="left">
    I'm 
-    <a href="https://www.facebook.com/khoa.cao.040404">Võ Quốc Sơn  ✔️
+    <a href="https://www.facebook.com/khoa.cao.040404">Võ Quốc Sơn  ✔️ 
      <img
-           width="8%" 
-           align="center" 
+           width="12.5%" 
+           align="right" 
            valign="middle" 
            src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/whale_1f40b.png" 
            target="_blank" 
       />
-    </a>
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
-
+   
+ <br>
+ <a align="right" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></a>
+ 
  <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
  </div>
+
  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+ > [![View count](https://visitcount.itsvg.in/api?id=nosime&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=nosime)
  <div align="center">
-  
+
    <a href="https://www.facebook.com/khoa.cao.040404" target="blank">
     <img src="https://img.icons8.com/nolan/60/facebook-new.png" alt="" />
    </a>

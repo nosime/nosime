@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Hà lố ô ! Xin chào tôi là
+    Xin chào ! Tôi là 
     <a href="https://www.facebook.com/khoa.cao.040404">Võ Quốc Sơn 
      <img
            width="10%" 

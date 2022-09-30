@@ -7,7 +7,7 @@
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/owl_1f989.png" 
+           src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/whale_1f40b.png" 
            target="_blank" 
       />
     </a>

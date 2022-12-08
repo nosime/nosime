@@ -49,15 +49,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  </h1>
-<div align=center>
-  <a href="#" title="Nosime">
-    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=nosime&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
- 
- <a href="#" title="Nosime">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosime&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>

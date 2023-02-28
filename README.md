@@ -2,7 +2,7 @@
 
  <h1 align="left">
    I'm 
-    <a href="https://www.facebook.com/khoa.cao.040404">Võ Quốc Sơn  ✔️ 
+    <a href="https://www.facebook.com/nosime.0404">Võ Quốc Sơn  ✔️ 
      <img
            width="12.5%" 
            align="right" 
@@ -26,13 +26,13 @@
  > [![View count](https://visitcount.itsvg.in/api?id=nosime&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=nosime)
  <div align="center">
 
-   <a href="https://www.facebook.com/khoa.cao.040404" target="blank">
+   <a href="https://www.facebook.com/nosime.0404" target="blank">
     <img src="https://img.icons8.com/nolan/60/facebook-new.png" alt="" />
    </a>
    <a href="https://twitter.com/SonVo0404" target="blank">
     <img src="https://img.icons8.com/nolan/60/twitter.png" alt="" />
    </a>
-   <a href="https://www.instagram.com/khoa.cao.404/" target="blank">
+   <a href="https://www.instagram.com/nosime.0404/" target="blank">
     <img src="https://img.icons8.com/nolan/60/instagram-new.png" alt="" />
    </a>
    <a href="https://t.me/nosime" target="blank">

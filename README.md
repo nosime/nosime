@@ -7,7 +7,7 @@
            width="12.5%" 
            align="right" 
            valign="middle" 
-           src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/whale_1f40b.png" 
+           src="https://em-content.zobj.net/source/microsoft-teams/337/whale_1f40b.png" 
            target="_blank" 
       />
    

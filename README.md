@@ -12,7 +12,7 @@
       />
    
  <br>
- <a align="right" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Software+Engineer"></a>
+ <a align="right" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Frontend+Developer;I'm+a+Software+Engineer"></a>
  
  <div align="center">
 

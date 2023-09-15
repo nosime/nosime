@@ -29,7 +29,7 @@
    <a href="https://www.facebook.com/nosime.0404" target="blank">
     <img src="https://img.icons8.com/nolan/60/facebook-new.png" alt="" />
    </a>
-   <a href="https://twitter.com/SonVo0404" target="blank">
+   <a href="https://twitter.com/nosime_0404" target="blank">
     <img src="https://img.icons8.com/nolan/60/twitter.png" alt="" />
    </a>
    <a href="https://www.instagram.com/nosime.0404/" target="blank">

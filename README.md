@@ -35,10 +35,10 @@
    <a href="https://www.instagram.com/nosime.0404/" target="blank">
     <img src="https://img.icons8.com/nolan/60/instagram-new.png" alt="" />
    </a>
-   <a href="https://t.me/nosime" target="blank">
+   <a href="https://t.me/" target="blank">
     <img src="https://img.icons8.com/nolan/60/telegram-app.png" alt="" />
    </a>
-   <a href="https://discord.com/channels/@VoSon0404#4927" target="blank">
+   <a href="https://discord.com/channels/" target="blank">
     <img src="https://img.icons8.com/nolan/60/discord-logo.png" alt="" />
    </a>
    <a href="mailto:voson0404@gmail.com" target="top">

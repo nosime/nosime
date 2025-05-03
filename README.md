@@ -18,9 +18,9 @@
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
  </div>
-
- 
-
+ <div align="center">
+<a href="https://app.daily.dev/nosime"><img src="https://api.daily.dev/devcards/v2/SUFH7RBU4vAEbdl991ArC.png?type=wide&r=k9k" width="652" alt="Nosime's Dev Card"/></a>
+   </div>
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 
